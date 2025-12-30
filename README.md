@@ -32,32 +32,17 @@
   <a href="https://t.me/nusratz0da0407">
     <img src="https://img.shields.io/badge/Telegram-@nusratz0da0407-26A5E4?style=for-the-badge&logo=telegram"/>
   </a>
-</p>
-
-<p align="center">
   <a href="mailto:solopolo972@gmail.com">
     <img src="https://img.shields.io/badge/Email-solopolo972@gmail.com-blue?style=for-the-badge"/>
   </a>
-</p>
-
-<p align="center">
   <a href="https://instagram.com/_nusratz0da._.m7">
     <img src="https://img.shields.io/badge/Instagram-_nusratz0da._.m7-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
   <a href="https://wa.me/992200700087">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
-
-
-## 🌱 Currently Learning
-- Advanced .NET Backend Architecture
-- Performance Optimization
-- Scalable Systems
 
 ---
 
