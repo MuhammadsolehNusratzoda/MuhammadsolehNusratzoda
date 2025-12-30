@@ -30,18 +30,19 @@
 
 <p align="center">
   <a href="https://t.me/nusratz0da0407">
-    <img src="https://img.shields.io/badge/Telegram-@nusratz0da0407-26A5E4?style=for-the-badge&logo=telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-@nusratz0da0407-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1E90FF"/>
   </a>
   <a href="mailto:solopolo972@gmail.com">
-    <img src="https://img.shields.io/badge/Email-solopolo972@gmail.com-blue?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Email-solopolo972@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1C86EE"/>
   </a>
   <a href="https://instagram.com/_nusratz0da._.m7">
-    <img src="https://img.shields.io/badge/Instagram-_nusratz0da._.m7-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-_nusratz0da._.m7-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584"/>
   </a>
   <a href="https://wa.me/992200700087">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1ED760"/>
   </a>
 </p>
+
 
 
 ---
