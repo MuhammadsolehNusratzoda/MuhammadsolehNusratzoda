@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--<h1 align="center">👋 Салом, ман Melikzoda Muslihiddin</h1>
+<h1 align="center">👋 Салом, ман Muhammadsoleh Nusratzoda</h1>
 
 <p align="center">
-  🚀 Frontend Developer | 💻 Programmer
+  🧠 Backend Developer • ⚙️ APIs • 🗄 Databases • 🔐 Security
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## 🧩 Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
@@ -24,25 +24,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Melikzoda-Muslihiddin&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadsolehNusratzoda&show_icons=true&theme=dark"/>
 </p>
 
 ---
 
-## 📫 Contact Me
-- Telegram: @yourusername
-- Email: yourmail@gmail.com
+## 🌱 Currently Learning
+- Advanced .NET Backend Architecture
+- Performance Optimization
+- Scalable Systems
 
-**MuhammadsolehNusratzoda/MuhammadsolehNusratzoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- GitHub: https://github.com/MuhammadsolehNusratzoda
