@@ -1,4 +1,4 @@
-<h1 align="center">👋 Салом, ман Muhammadsoleh Nusratzoda</h1>
+<h1 align="center">👋 Hi there, I am Muhammadsoleh Nusratzoda</h1>
 
 <p align="center">
   🧠 Backend Developer • ⚙️ APIs • 🗄 Databases • 🔐 Security
