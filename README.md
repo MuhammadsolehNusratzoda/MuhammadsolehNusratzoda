@@ -1,4 +1,14 @@
-<h1 align="center">👋 Hi there, I am Muhammadsoleh Nusratzoda</h1>
+<h1 align="center">👋 Hi there, I'm Muhammadsoleh Nusratzoda
+
+I am a 19-year-old a begginer backend developer from Tajikistan, born and raised in Fayzabad (village Muloyon).
+
+I am currently focused on learning backend development and building projects to improve my skills and gain practical experience.
+
+Beyond coding, I enjoy playing football, reading books, and continuously learning — both new spoken languages and programming languages. 
+
+I also have a strong interest in traveling, meeting new people, and exchanging knowledge.
+
+I enjoy sharing what I learn with others while also gaining new skills and perspectives from them.</h1>
 
 <p align="center">
   🧠 Backend Developer • ⚙️ APIs • 🗄 Databases • 🔐 Security
