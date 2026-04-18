@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Muhammadsoleh Nusratzoda
 
-I am 19-year-old. I am a begginer backend developer from Tajikistan, born and raised in Fayzabad.
+I am 19-years-old. I am a begginer backend developer from Tajikistan, born and raised in Fayzabad.
 
 I am currently focused on learning backend development and building projects to improve my skills and gain practical experience.
 
