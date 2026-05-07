@@ -46,7 +46,7 @@ I enjoy sharing what I learn with others while also gaining new skills and persp
 
 <p align="center">
   <a href="https://t.me/ms_17_04_07">
-    <img src="https://img.shields.io/badge/Telegram-@nusratz0da0407-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1E90FF"/>
+    <img src="https://img.shields.io/badge/Telegram-@ms_17_04_07-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1E90FF"/>
   </a>
   <a href="mailto:solopolo972@gmail.com">
     <img src="https://img.shields.io/badge/Email-nusratzodamuhammadsoleh@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1C86EE"/>
